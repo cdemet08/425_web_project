@@ -1,0 +1,49 @@
+
+body{
+    background-color: white;
+
+
+}
+
+h1 {
+
+    color: #A4A400;
+    background-color: #F0F0F0;
+    font-family: "Sans";
+    font-size: 22pt;
+    font-weight: bold;
+    text-decoration: underline;
+    text-align: center;
+}
+
+h2 {
+
+    color: #A4A400;
+    background-color: #F0F0F0;
+    font-family: Helvetica;
+    font-size: 18pt;
+    font-weight: normal;
+    text-decoration: underline;
+    text-align: left;
+    
+}
+
+
+p { 
+    color: #404040;
+    text-align:left;
+    font-family: Georgia;
+    font-weight: normal;
+    font-size: 19pt;
+}
+
+#copyright {
+    
+    color: #404040;
+    text-align:left;
+    font-family: monospace;
+    font-weight: normal;
+    font-size: 11pt;
+
+
+}

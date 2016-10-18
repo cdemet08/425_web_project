@@ -1,0 +1,118 @@
+
+body{
+    background-color: white;
+
+}
+
+h1 {
+
+    color: #A4A400;
+    background-color: #F0F0F0;
+    font-family: "Lucida Sans Unicode";
+    font-size: 22pt;
+    font-weight: bold;
+    text-decoration: underline;
+    text-align: center;
+}
+
+h2 {
+
+    color: #A4A400;
+    background-color: #F0F0F0;
+    font-family: Helvetica;
+    font-size: 18pt;
+    font-weight: normal;
+    text-decoration: underline;
+    text-align: left;
+    
+}
+
+
+h3 {
+
+    color: #A4A400;
+    background-color: #F0F0F0;
+    font-family: Arial;
+    font-size: 18pt;
+    font-weight: normal;
+    text-decoration: underline;
+    text-align: left;
+    
+}
+
+
+h4 {
+
+    color: #A4A400;
+    background-color: #F0F0F0;
+    font-family: sans-serif;
+    font-size: 18pt;
+    text-decoration: underline;
+    font-weight: normal;
+    text-align: left;
+
+    
+}
+
+h5 {
+
+    color: #A4A400;
+    background-color: #F0F0F0;
+    font-family: Serif;
+    font-size: 18pt;
+    text-decoration: underline;
+    font-weight: normal;
+    text-align: left;
+
+    
+}
+ul {
+    color: #404040;
+    text-align:left;
+    font-family: Georgia;
+    font-weight: normal;
+    font-size: 11pt;
+
+
+}
+
+ol {
+    
+    color: #404040;
+    text-align:left;
+    font-family: Georgia;
+    font-weight: normal;
+    font-size: 11pt;
+
+
+}
+
+p { 
+    color: #404040;
+    text-align:left;
+    font-family: Georgia;
+    font-weight: normal;
+    font-size: 11pt;
+}
+
+#comments {
+
+    color: #404040;
+    background-color:#FFFFA8;
+    text-align:left;
+    font-family: Georgia;
+    font-weight: italic;
+    font-size: 11pt;
+
+}
+
+#copyright {
+    
+    color: #404040;
+    text-align:left;
+    font-family: monospace;
+    font-weight: normal;
+    font-size: 11pt;
+
+
+}
